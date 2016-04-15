@@ -1,4 +1,4 @@
-.bjd-responsive-iframe-cntr {
+.cbresponsive-iframe-cntr {
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 30px;
@@ -6,8 +6,7 @@
     overflow: hidden;
 }
 
-.bjd-responsive-iframe-cntr iframe  
-{
+.cbresponsive-iframe-cntr iframe {
     position: absolute;
     top: 0;
     left: 0;
